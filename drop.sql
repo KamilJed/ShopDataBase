@@ -1,0 +1,17 @@
+DROP TABLE Oferty_w_kraju;
+DROP TABLE Kurierzy_w_kraju;
+DROP TABLE Zwrócone_towary;
+DROP TABLE Zwroty;
+DROP TABLE Skompletowane_towary;
+DROP TABLE Zamówione_towary;
+DROP TABLE Stany_towarów;
+DROP TABLE Oferty;
+DROP TABLE Dostawy;
+DROP TABLE Zamówienia;
+DROP TABLE Opcje_dostaw;
+DROP TABLE Firmy_kurierskie;
+DROP TABLE Towary;
+DROP TABLE Magazyny;
+DROP TABLE Klienci;
+DROP TABLE Miasta;
+DROP TABLE Kraje;
